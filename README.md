@@ -31,7 +31,7 @@ This repository includes the following resources:
    A practical guide to using the *text2ikon* web app to build sentences in IKON.
 
 For questions, collaborations, or feedback:  
-:e-mail: komunikon@info.com  
+:e-mail: laura.meloni@komunikon.com  
 [KomunIKON official website](https://komunikon.net)
 
 

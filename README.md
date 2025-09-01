@@ -11,7 +11,7 @@ It has been created for 2 reasons:
 1. To guide new linguists and graphics in understanding IKON principles and rules.
 2. To have a structured content that can be intagrated in our resources (website and web app) to educate external users. 
 
-## Introduction
+## What is IKON?
 
 IKON is an icon-based language developed by the Swiss association KomunIKON. IKON incorporates grammar, syntax, and vocabulary to form complete sentences.
 It is designed to support

@@ -42,9 +42,7 @@ This allows an easier comprehension of the structure of the language and the rol
 
 #inserire html qui
 > :question: Why are the borders useful?
-
-
-> Imagine the following sentences without borders: the difference would get lost.
+> :answer: Imagine the following sentences without borders: the difference would get lost.
 
 ## TENSES
 

@@ -33,8 +33,10 @@ This repository includes the following resources:
 ## References
 
 You can find our methodology, examples of IKON and other analysis in the following academic papers and conferences:
+- [IKON, language of icons: linguistic, semiotic and graphic aspects](https://www.youtube.com/watch?v=WAaFLqit6fQ), Symbol Group Annual Meeting, September 2024.
 - Meloni, L. et al. (2023). *Semantics of Visual Languages: the IKON language and linguistic resources*. In Proceedings of IConlangs22. RiCognizioni Journal, Turin.
-- [Additional paper 2, if any]  
+- Meloni, L. et al. (2022). Beyond emojis: an insight into the IKON language. In Proceedings of the Fifth International Workshop on Emoji Understanding and Applications in Social Media, pages 11–20,
+Seattle, Washington, USA. Association for Computational Linguistics.
 
 
 For questions, collaborations, or feedback:  

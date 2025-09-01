@@ -14,7 +14,7 @@ It has been created for 2 reasons:
 ## What is IKON?
 
 IKON is an icon-based language developed by the Swiss association KomunIKON. IKON incorporates grammar, syntax, and vocabulary to form complete sentences.
-It is designed to support
+It is designed to support:
 - language students and teachers
 - illiterate adults
 - tourists

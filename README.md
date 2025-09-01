@@ -1,11 +1,12 @@
 # Welcome to IKON Documentation
 
-**Note**  
-This repository contains **sample documentation** created to demonstrate technical writing and structuring skills.  
+>[ !NOTE ]  
+>
+>This repository contains **sample documentation** created to demonstrate technical writing and structuring skills.  
 It is based on my work as a chief linguist for the IKON visual language project by KomunIKON.  
 This is a simplified and public version – some details are omitted for confidentiality. 
 
-The documentation contains documentation for the IKON language. 
+The repository contains documentation for the IKON language. 
 It has been created for 2 reasons:
 
 1. To guide new linguists and graphics in understanding IKON principles and rules.

@@ -9,7 +9,7 @@
 | CONTRASTIVE           | One meaning opposite to another. The intended meaning is marked with green thick, on the right (or on top according to the icon orientation). |
 | PROCESSUAL            | Representation of an event’s phases or stages, which together form the event's temporal structure. Use 1 and 2 (or even 3 if necessary). Examples: *to take*, *to choose*. |
 | TRANSFORMATIVE        | Icons showing a process that leads to a change of state. Examples: *to get tired* *is rested* + transformative arrow + *tired* |
-| CORRELATIVE           |Two icons are combined to form a compound word. Examples: **what*+*thing*->**what|
+| CORRELATIVE           |Two icons are combined to form a compound word. Examples: **what*+*thing* -> **what|
 
  
  

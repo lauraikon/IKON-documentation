@@ -30,5 +30,9 @@ This repository includes the following resources:
 2. **[Web App User Guide](/user-guide/webapp-guide.md)**  
    A practical guide to using the *text2ikon* web app to build sentences in IKON.
 
+For questions, collaborations, or feedback:  
+:e-mail: komunikon@info.com  
+[KomunIKON official website](https://komunikon.net)
+
 
 

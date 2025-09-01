@@ -30,6 +30,13 @@ This repository includes the following resources:
 2. **[Web App User Guide](/user-guide/webapp-guide.md)**  
    A practical guide to using the *text2ikon* web app to build sentences in IKON.
 
+## References
+
+You can find our methodology, examples of IKON and other analysis in the following academic papers and conferences:
+- Meloni, L. et al. (2023). *Semantics of Visual Languages: the IKON language and linguistic resources*. In Proceedings of IConlangs22. RiCognizioni Journal, Turin.
+- [Additional paper 2, if any]  
+
+
 For questions, collaborations, or feedback:  
 :e-mail: laura.meloni@komunikon.com  
 [KomunIKON official website](https://komunikon.net)

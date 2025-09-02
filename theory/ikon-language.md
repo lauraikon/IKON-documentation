@@ -29,10 +29,11 @@ There are several different uses of arrows, circles and lines to show different 
 |INDICATIVE CIRCLES   | A dashed purple circle may be preferred for graphical reasons to indicate a part of an object or group of elements.|
 |TRANSFORMATIVE ARROWS| A solid purple arrow indicate a change of state and the process from one state to another.|
 |MOTION ARROWS AND LINES | They help interpret motion and distinguish different motion directions|
+
+
 ## People, Family, and Pronouns
 
-
-## IKON is human-centric.
+IKON is human-centric.
 
 ### People and jobs
 - As a general guideline we represent genderless and non-cultural human like figures with gray skin colour (full, half body or only hands).

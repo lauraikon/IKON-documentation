@@ -1,5 +1,5 @@
 The ever expanding IKON Set has been developed over the past 10 years reaching 1000 icons. This growth is not random: the lexicon
-of ikon is built starting from a core set of around 500 icons covering basic concepts in most languages and more complex, but still frequent words.
+of ikon is built starting from a core set of around 500 icons covering basic concepts in most languages to more complex, but still frequent words.
 IKON is highly rooted in Esperanto vocabulary and structure. New icons are also created for side projects. 
 
 # Type of Icons
@@ -66,9 +66,9 @@ IKON associates colours and shapes to parts of speech and each icon must be cont
 
 This allows an easier comprehension of the structure of the language and the role of each icon in the sentence.
 
-<div style="border:2px solid #1e90ff; padding:10px; border-radius:8px; background:#f0f8ff; margin:1em 0;">
-  <strong>❓ Question:</strong><br>
-  Why are the borders useful?
+<div class="admonition danger highlight blink">
+<p class="admonition-title">Don't try this at home</p>
+<p>...</p>
 </div>
 
 

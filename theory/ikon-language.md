@@ -20,10 +20,20 @@ These are the basic strategies used to translate words into icons. They are base
 | TRANSFORMATIVE        | Icons showing a process that leads to a change of state. Examples: *to get tired* *is rested* + transformative arrow + *tired* |
 | CORRELATIVE           |Two icons are combined to form a compound word. Examples: **what*+*thing* → **what|
 
+## Arrows, lines, circles
+There are several different uses of arrows, circles and lines to show different concepts.
 
+|SYMBOL                |DESCRIPTION|
+---------------------|-----------|
+|INDICATIVE ARROWS| TA solid purple arrow indicate a specific object inside scenes featuring more than one object.
+|INDICATIVE CIRCLES   | A dashed purple circle may be preferred for graphical reasons to indicate a part of an object or group of elements.|
+|TRANSFORMATIVE ARROWS| A solid purple arrow indicate a change of state and the process from one state to another.|
+|MOTION ARROWS AND LINES | They help interpret motion and distinguish different motion directions|
 ## People, Family, and Pronouns
 
-IKON is human-centric.
+
+## IKON is human-centric.
+
 ### People and jobs
 - As a general guideline we represent genderless and non-cultural human like figures with gray skin colour (full, half body or only hands).
 Gray person + a qualifying element to denote professions.
@@ -41,7 +51,9 @@ The set includes static prepositions (*in*) and dynamic ones (*into*).
 > Other elements can become prepositions according to the meaning they assume in the sentence. Example: *of* + noun in expressions of quantity is expressed by the icon for *amount/quantity* in a prepositional border.
 > Example: to give* in a prepositional border is the dative *to*.
 
-## Borders
+## Grammar
+
+### Borders
 IKON associates colours and shapes to parts of speech and each icon must be contained in a coloured border:
 
 - Yellow for nounsred for verbs.
@@ -57,6 +69,16 @@ This allows an easier comprehension of the structure of the language and the rol
 > :question: Why are the borders useful?
 
 > :answer: Imagine the following sentences without borders: the difference would get lost.
+
+
+### Negation 
+
+IKON uses a single negation form for a simplified system. The particle goes before the word it negates (noun, verb, or adjective). 
+Examples:
+- she no-NEG have-VERB interest in something (completely lacks possession of interest).
+- she no-NEG interested-ADJ in something; (focus on the state of not being interested).
+- she no-NEG (is-VERB) happy-ADJ (or she no happy).
+- No-NEG go-VERB (do not go).
 
 ## TIME
 
@@ -88,16 +110,6 @@ IKON has  the most relevant words to express time using various semantic-graphic
 The adverb of times are designed with a timeline + the clock as qualifying element (classifier) and describe when an action takes place or how frequent it happens.
 
 
-# ARROWS, LINES, CIRCLES
-There are several different uses of arrows, circles and lines to show different concepts.
-
-|SYMBOL                |DESCRIPTION|
----------------------|-----------|
-|INDICATIVE ARROW| TA solid purple arrow indicate a specific object inside scenes featuring more than one object.
-|INDICATIVE CIRCLE   | A dashed purple circle may be preferred for graphical reasons to indicate a part of an object or group of elements.|
-|TRANSFORMATIVE ARROW | A solid purple arrow indicate a change of state and the process from one state to another.|
-|MOTION ARROWS AND LINES | They help interpret motion and distinguish different motion directions|
-
 ## QUANTIFIERS
 
 IKON expresses quantifiers (*all*, *some*, *none*) through contrastive icons opposing set of circles containing all, some, or none of the points present. The intended meaning is circled.
@@ -106,7 +118,7 @@ IKON expresses quantifiers (*all*, *some*, *none*) through contrastive icons opp
 
 ### ICONEMES
 
-Now that you learnt how words and principles you can build more complex sentence by adding our **iconemes**. An iconeme is a modifier with grammatical function which enrich the icon meaning
+Now that you learnt our words and principles you can build more complex sentence by adding our **iconemes**. An iconeme is a modifier with grammatical function which enrich the icon meaning
 Iconemes are:
 * **Gender markers**: male and female symbols
 * Imperative mode : exclamative point
@@ -124,25 +136,16 @@ The visual nature of IKON makes it possible to use flexible syntactic approaches
 Sentences could potentially be constructed from right to left or viceversa, top-bottom or bottom-top. Or following a semantic schema, that is a **verb** connected to its arguments. 
 It is up to writers to adjust this order according to what they are accustomed to in their native language, to what they deem most important, or to what burdens readers the least. However, it is important to consider that the most relevant word orders are subject-object-verb (SOV) and subject-verb-object (SVO), the former being the most common.
 
-### Negation 
-
-IKON uses a single negation form for a simplified system. The particle goes before the word it negates (noun, verb, or adjective). 
-Examples:
-- she no-NEG have-VERB interest in something (completely lacks possession of interest).
-- she no-NEG interested-ADJ in something; (focus on the state of not being interested).
-- she no-NEG (is-VERB) happy-ADJ (or she no happy).
-- No-NEG go-VERB (do not go).
-
   ## Semantic predication
 
   ### Mathematical symbols
-
-IKON uses symbols like ∈, and = to reflect different levels of relationship and precision in language, based on the context of the verb "to be" and the relationships between concepts.
+  
+  IKON uses symbols like ∈, and = to reflect different levels of relationship and precision in language, based on the context of the verb "to be" and the relationships between concepts.
 * Preposition "of" and verb "belong" (non-equivalence):
-- Use the belonging symbol (∈) for the preposition "of" or the verb "belong."
+Use the belonging symbol (∈) for the preposition "of" or the verb "belong."
 Example: If "Paris belongs to the set of fascinating things," you would represent it as "Paris ∈ fascinating things."
 * Verb "to be" (equivalence):
-- When "to be" expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
+When "to be" expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
 Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as "Paris = capital of France."
 
 > [ !TIP ]

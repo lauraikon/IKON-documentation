@@ -68,10 +68,11 @@ This allows an easier comprehension of the structure of the language and the rol
 
 | :question:  Why are border useful? |
 |-----------------------------------------|
-
-
 | :bulb:       Imagine these sentences without borders. The meaning would be lost.   |
-|-----------------------------------------|
+|sentence A||
+|sentence B||
+
+
 ### Tenses
 
 <p>As any other language IKON express verbal tenses designed to reflect Esperanto set. 

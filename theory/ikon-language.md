@@ -67,7 +67,7 @@ IKON associates colours and shapes to parts of speech and each icon must be cont
 This allows an easier comprehension of the structure of the language and the role of each icon in the sentence.
 
 | :question:  Why are border useful? |
-|-----------------------------------------|
+|-------------------------------------|
 | :bulb:       Imagine these sentences without borders. The meaning would be lost.   |
 |sentence A||
 |sentence B||

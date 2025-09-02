@@ -73,17 +73,8 @@ This allows an easier comprehension of the structure of the language and the rol
 Borders help distinguish icons and clarify sentence structure.
 </details>
 
-html
-<div>div class="question"
-  
-</div>
 
-QUESTION]
->  Why are the borders useful?"
-> Borders help distinguish icons and clarify sentence structure.
-
-> !!! example "example"
-> Imagine the following sentences without borders: the difference would get lost.
+ Imagine the following sentences without borders: the difference would get lost.
 
 ### Tenses
 

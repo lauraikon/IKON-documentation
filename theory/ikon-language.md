@@ -70,18 +70,6 @@ This allows an easier comprehension of the structure of the language and the rol
 
 > :answer: Imagine the following sentences without borders: the difference would get lost.
 
-
-### Negation 
-
-IKON uses a single negation form for a simplified system. The particle goes before the word it negates (noun, verb, or adjective). 
-Examples:
-- she no-NEG have-VERB interest in something (completely lacks possession of interest).
-- she no-NEG interested-ADJ in something; (focus on the state of not being interested).
-- she no-NEG (is-VERB) happy-ADJ (or she no happy).
-- No-NEG go-VERB (do not go).
-
-## TIME
-
 ### Tenses
 
 As any other language IKON express verbal tenses designed to reflect Esperanto set. 
@@ -93,6 +81,16 @@ Verbal tenses
 The verbal tenses are iconemes and can be appended to the icona the center bottom via our web-app. Consult the [text2ikon user guide]().
 A full list and explanation for the English language learning is soon to be publiched.
 **Note:** they are designed to be match other languages
+### Negation 
+
+IKON uses a single negation form for a simplified system. The particle goes before the word it negates (noun, verb, or adjective). 
+Examples:
+- she no-NEG have-VERB interest in something (completely lacks possession of interest).
+- she no-NEG interested-ADJ in something; (focus on the state of not being interested).
+- she no-NEG (is-VERB) happy-ADJ (or she no happy).
+- No-NEG go-VERB (do not go).
+
+## TIME
 
 ### Time related words
 

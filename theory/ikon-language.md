@@ -67,9 +67,11 @@ IKON associates colours and shapes to parts of speech and each icon must be cont
 This allows an easier comprehension of the structure of the language and the role of each icon in the sentence.
 
 #inserire html qui
-> :question: Why are the borders useful?
+> [!QUESTION]
+> Why are the borders useful?
 
-> :answer: Imagine the following sentences without borders: the difference would get lost.
+> !!! example "example"
+> Imagine the following sentences without borders: the difference would get lost.
 
 ### Tenses
 

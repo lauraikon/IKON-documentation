@@ -66,26 +66,12 @@ IKON associates colours and shapes to parts of speech and each icon must be cont
 
 This allows an easier comprehension of the structure of the language and the role of each icon in the sentence.
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.city {
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-</style>
-</head>
-<body>
+| :question:  Why are border useful? |
+|-----------------------------------------|
 
-<div class="city">
-<h2>London</h2>
-<p>London is the capital of England.</p>
-</div> 
 
+| :bulb:       Imagine these sentences without borders. The meaning would be lost.   |
+|-----------------------------------------|
 ### Tenses
 
 <p>As any other language IKON express verbal tenses designed to reflect Esperanto set. 

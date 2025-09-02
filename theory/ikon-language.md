@@ -109,7 +109,7 @@ IKON has  the most relevant words to express time using various semantic-graphic
 The adverb of times are designed with a timeline + the clock as qualifying element (classifier) and describe when an action takes place or how frequent it happens.
 
 
-## QUANTIFIERS
+## Quantifiers
 
 IKON expresses quantifiers (*all*, *some*, *none*) through contrastive icons opposing set of circles containing all, some, or none of the points present. The intended meaning is circled.
 

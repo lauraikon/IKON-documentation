@@ -25,10 +25,10 @@ There are several different uses of arrows, circles and lines to show different 
 
 |SYMBOL                |DESCRIPTION|
 ---------------------|-----------|
-|INDICATIVE ARROWS| TA solid purple arrow indicate a specific object inside scenes featuring more than one object.
+|INDICATIVE ARROWS    | A solid purple arrow indicate a specific object inside scenes featuring more than one object.
 |INDICATIVE CIRCLES   | A dashed purple circle may be preferred for graphical reasons to indicate a part of an object or group of elements.|
 |TRANSFORMATIVE ARROWS| A solid purple arrow indicate a change of state and the process from one state to another.|
-|MOTION ARROWS AND LINES | They help interpret motion and distinguish different motion directions|
+|MOTION ARROWS AND LINES | Dashed purple arrows and lines helping interpret motion and distinguish different motion directions|
 
 
 ## People, Family, and Pronouns

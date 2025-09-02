@@ -73,14 +73,14 @@ This allows an easier comprehension of the structure of the language and the rol
 
 ### Tenses
 
-As any other language IKON express verbal tenses designed to reflect Esperanto set. 
-It uses *timelines*: a vertical bar with pixel above: present = speech time. 
-Vertical bar without additional pixel = point of reference which is the time from which the event is viewed). 
-We instead call **boundary time** or **the change time** the starting time of an event. 
-Verbal tenses 
+<p>As any other language IKON express verbal tenses designed to reflect Esperanto set. 
+It uses *timelines*.</p>
+<p>The timeline is a modifier that can be added beneath each icon to indicate time through our web-app. On this line, a central notch marks time 0, that is, the present. Above the line, a purple dot or segment shows the time being indicated: past, present, or future. </p>
+<p>It also shows the verbal aspect: whether the action is punctual, continuous, or repeated.</p>
+<p>Another vertical bar shows a point of reference which is the time from which the event is viewed in more complex tenses such as a present perfect.</p> 
 
-The verbal tenses are iconemes and can be appended to the icona the center bottom via our web-app. Consult the [text2ikon user guide]().
-A full list and explanation for the English language learning is soon to be publiched.
+
+A full list and explanation for the English language learning is soon to be published.
 **Note:** they are designed to be match other languages
 ### Negation 
 

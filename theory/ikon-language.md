@@ -66,13 +66,25 @@ IKON associates colours and shapes to parts of speech and each icon must be cont
 
 This allows an easier comprehension of the structure of the language and the role of each icon in the sentence.
 
-<div class="admonition danger highlight blink">
-<p class="admonition-title">Don't try this at home</p>
-<p>...</p>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
 
-
- Imagine the following sentences without borders: the difference would get lost.
+<div class="city">
+<h2>London</h2>
+<p>London is the capital of England.</p>
+</div> 
 
 ### Tenses
 

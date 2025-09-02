@@ -66,12 +66,10 @@ IKON associates colours and shapes to parts of speech and each icon must be cont
 
 This allows an easier comprehension of the structure of the language and the role of each icon in the sentence.
 
-
-<details>
-<summary><strong>Why are the borders useful?</strong></summary>
-
-Borders help distinguish icons and clarify sentence structure.
-</details>
+<div style="border:2px solid #1e90ff; padding:10px; border-radius:8px; background:#f0f8ff; margin:1em 0;">
+  <strong>❓ Question:</strong><br>
+  Why are the borders useful?
+</div>
 
 
  Imagine the following sentences without borders: the difference would get lost.

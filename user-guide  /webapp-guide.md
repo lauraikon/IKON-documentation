@@ -1,8 +1,8 @@
-# How to Use Text-2-IKON
+# How to Use Text2IKON
 
 <p>Text-2-IKON is a web application that translates words into IKON, the visual language developed by KomunIKON. 
    
-:link: [Open the Web App](https://text2ikon.komunikon.com/)</p>
+:link: [Open Text2IKON](https://text2ikon.komunikon.com/)</p>
 <p>The web app is directly connected to our database, where icons are uploaded and manually translated by the team.</p>
 
 

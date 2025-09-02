@@ -1,190 +1,190 @@
-The ever expanding IKON Set has been developed over the past 10 years reaching 1000 icons. This growth is not random: the lexicon
-of ikon is built starting from a core set of around 500 icons covering basic concepts in most languages to more complex, but still frequent words.
-IKON is highly rooted in Esperanto vocabulary and structure. New icons are also created for side projects. 
+# IKON Overview
 
-# Type of Icons
+The ever-expanding IKON Set has been developed over the past 10 years, reaching 1000 icons. This growth is not random: the lexicon of IKON is built starting from a core set of around 500 icons covering basic concepts in most languages to more complex, but still frequent words.  
+IKON is highly rooted in Esperanto vocabulary and structure. New icons are also created for side projects.
 
-## Semantic - graphic strategies
+---
 
-These are the basic strategies used to translate words into icons. They are based on linguistic analysis and graphic optimization.
+## Table of Contents
 
+- [Type of Icons](#type-of-icons)  
+- [Arrows, Lines, Circles](#arrows-lines-circles)  
+- [People, Family, and Pronouns](#people-family-and-pronouns)  
+- [Prepositions](#prepositions)  
+- [Grammar](#grammar)  
+- [Advanced Grammar](#advanced-grammar)  
+- [Applications](#applications)  
 
-| TYPE OF ICON          | DESCRIPTION |
-|----------------------|------------|
-| PICTOGRAPHIC          | A prototypical and conventional type of an item. Example: the most telling representation of a window. |
-| SYMBOLIC              | Use of symbols already used in the iconography of a specific domain (mathematics, road signs, genders, etc.). |
-| HYPERONYMIC (Supertype)|  Icons containing three to four elements to show examples of the larger category. Examples: *wood* + *glass* + *paper* → *material*; a set of different species → *animal*. |
-| HYPONYMIC (Subtype)  | Highlight a specific member of the hyperonymic set. |
-| CONTRASTIVE           |The meaning emerges from the comparison of two meanings (often opposite). The intended meaning is marked with green thick, on the right (or on top according to the icon orientation). |
-| PROCESSUAL            | Representation of an event’s phases or stages, which together form the event's temporal structure. Use 1 and 2 (or even 3 if necessary). Examples: *to take*, *to choose*. |
-| TRANSFORMATIVE        | Icons showing a process that leads to a change of state. Examples: *to get tired* *is rested* + transformative arrow + *tired* |
-| CORRELATIVE           |Two icons are combined to form a compound word. Examples: **what*+*thing* → **what|
+---
 
-## Arrows, lines, circles
-There are several different uses of arrows, circles and lines to show different concepts.
+## Type of Icons
 
-|SYMBOL                |DESCRIPTION|
----------------------|-----------|
-|INDICATIVE ARROWS    | A solid purple arrow indicate a specific object inside scenes featuring more than one object.
-|INDICATIVE CIRCLES   | A dashed purple circle may be preferred for graphical reasons to indicate a part of an object or group of elements.|
-|TRANSFORMATIVE ARROWS| A solid purple arrow indicate a change of state and the process from one state to another.|
-|MOTION ARROWS AND LINES | Dashed purple arrows and lines helping interpret motion and distinguish different motion directions|
+### Semantic – Graphic Strategies
 
+These are the basic strategies used to translate words into icons, based on linguistic analysis and graphic optimization.
+
+| Type of Icon | Description |
+|--------------|------------|
+| PICTOGRAPHIC | A prototypical and conventional type of an item. Example: the most telling representation of a window. |
+| SYMBOLIC | Use of symbols already used in the iconography of a specific domain (mathematics, road signs, genders, etc.). |
+| HYPERONYMIC (Supertype) | Icons containing three to four elements to show examples of a larger category. Examples: *wood + glass + paper → material*; a set of different species → *animal*. |
+| HYPONYMIC (Subtype) | Highlights a specific member of the hyperonymic set. |
+| CONTRASTIVE | Meaning emerges from comparing two concepts (often opposites). The intended meaning is marked with green thick line on the right (or top) according to icon orientation. |
+| PROCESSUAL | Represents an event’s phases or stages. Examples: *to take*, *to choose*. |
+| TRANSFORMATIVE | Shows a process leading to a change of state. Examples: *to get tired*: *is rested* + transformative arrow + *tired*. |
+| CORRELATIVE | Two icons combined to form a compound word. Example: *what + thing → what* |
+
+---
+
+## Arrows, Lines, Circles
+
+| Symbol | Description |
+|--------|------------|
+| INDICATIVE ARROWS | Solid purple arrow indicating a specific object inside scenes with multiple objects. |
+| INDICATIVE CIRCLES | Dashed purple circle indicating part of an object or group of elements. |
+| TRANSFORMATIVE ARROWS | Solid purple arrow showing change of state from one state to another. |
+| MOTION ARROWS AND LINES | Dashed purple arrows and lines help interpret motion and distinguish directions. |
+
+---
 
 ## People, Family, and Pronouns
 
-IKON is human-centric.
+### People and Jobs
 
-### People and jobs
-- As a general guideline we represent genderless and non-cultural human like figures with gray skin colour (full, half body or only hands).
-Gray person + a qualifying element to denote professions.
-- Personal pronouns are represented with people. The set includes traditional pronouns along with inclusive "we" (me, you and possibly someone else) and exclusive "we" (me, someone else but not you). The pronouns use the gray border.
+- Genderless and non-cultural human figures are gray (full, half body, or only hands).  
+- Profession is indicated by adding a qualifying element to the gray person.  
+- Personal pronouns are represented with people. Includes traditional pronouns plus inclusive “we” (me + you + possibly someone else) and exclusive “we” (me + someone else but not you). Pronouns use gray borders.
 
 ### Family
-The family relationships include gender-specific as well as gender-neutral members. The gender of the members are coded through hairstyle, symbols and colour (blue and pink). 
-The member the icon refers to is coloured. An indicative arrow indicates the perspective of the relationship. Example: from mother to son is *mother* from son to mother is *son*.
+
+- Family members are gender-specific or neutral, coded via hairstyle, symbols, and color (blue/pink).  
+- The referenced member is colored; an indicative arrow shows the perspective. Example: from mother to son → *mother*; from son to mother → *son*.
+
+---
 
 ## Prepositions
 
-Prepositions are mostly expressed with an orange ball in a spatial relation to other elements.
-The set includes static prepositions (*in*) and dynamic ones (*into*).
-> [!TIP]
-> Other elements can become prepositions according to the meaning they assume in the sentence. Example: *of* + noun in expressions of quantity is expressed by the icon for *amount/quantity* in a prepositional border.
-> Example: to give* in a prepositional border is the dative *to*.
+Prepositions are mostly expressed with an orange ball in spatial relation to other elements (static: *in*; dynamic: *into*).
+
+> [!TIP]  
+> Other elements can act as prepositions depending on context.  
+> Example: *of* + noun in quantity expressions → *amount/quantity* icon in prepositional border.  
+> Example: *to give* in a prepositional border → dative *to*.
+
+---
 
 ## Grammar
 
 ### Borders
-IKON associates colours and shapes to parts of speech and each icon must be contained in a coloured border:
 
-- Yellow for nounsred for verbs.
-- Blue for adjectives.
-- Orange for adverbs
-- Green for conjunctions and prepositions.
-- Gray for pronouns or other indefinite elements.
-- The plural is marked through an overlapping of three borders.
+IKON assigns colors and shapes to parts of speech. Each icon is contained in a colored border:  
 
-This allows an easier comprehension of the structure of the language and the role of each icon in the sentence.
+- Yellow → Nouns  
+- Red → Verbs  
+- Blue → Adjectives  
+- Orange → Adverbs  
+- Green → Conjunctions & prepositions  
+- Gray → Pronouns / indefinite elements  
+- Plural → Overlapping three borders  
 
-| :question:  Why are border useful? |
-|------------------------------------|
-
-
-
-:bulb:       Imagine these sentences without borders. The meaning would be lost.  
-|sentence A||
-|sentence B||
-
+> [!TIP]  
+> **Why are borders useful?**  
+> Imagine sentences without borders — the meaning would be lost.
 
 ### Tenses
 
-<p>As any other language IKON express verbal tenses designed to reflect Esperanto set. 
-It uses *timelines*.</p>
-<p>The timeline is a modifier that can be added beneath each icon to indicate time through our web-app. On this line, a central notch marks time 0, that is, the present. Above the line, a purple dot or segment shows the time being indicated: past, present, or future. </p>
-<p>It also shows the verbal aspect: whether the action is punctual, continuous, or repeated.</p>
-<p>Another vertical bar shows a point of reference which is the time from which the event is viewed in more complex tenses such as a present perfect.</p> 
+- IKON expresses verbal tenses using *timelines*.  
+- A timeline appears beneath each icon: a central notch marks time 0 (present).  
+- A purple dot or segment shows past, present, or future.  
+- Another vertical bar can indicate the reference time for complex tenses (e.g., present perfect).  
+- Timeline also shows verbal aspect: punctual, continuous, or repeated.
 
+> [!NOTE]  
+> A full list of tense icons for English is forthcoming. They are designed to match other languages’ tenses.
 
-A full list and explanation for the English language learning is soon to be published.
-**Note:** they are designed to be match other languages
-### Negation 
+### Negation
 
-IKON uses a single negation form for a simplified system. The particle goes before the word it negates (noun, verb, or adjective). 
-Examples:
-- she no-NEG have-VERB interest in something (completely lacks possession of interest).
-- she no-NEG interested-ADJ in something; (focus on the state of not being interested).
-- she no-NEG (is-VERB) happy-ADJ (or she no happy).
-- No-NEG go-VERB (do not go).
+IKON uses a single negation form before the word:  
 
-## TIME
+- *she no-NEG have-VERB interest in something* (completely lacks possession of interest)  
+- *she no-NEG interested-ADJ in something* (focus on state)  
+- *she no-NEG (is-VERB) happy-ADJ*  
+- *No-NEG go-VERB* (do not go)
 
-### Time related words
+---
 
-IKON has  the most relevant words to express time using various semantic-graphical strategies:
-* 24-hour-day
-* Night and day time
-* Part of the day: morning, midnoon , afternoon, evening, night
-* Unit-day: Today, Tomorrow, Yesterday.
-* Calendar terms: Week, Weekend, month, year
-* Seasons
-* Units of time: Hours; Minute; Second
+## Time
 
-### Adverb of time
+### Time-related Words
 
-The adverb of times are designed with a timeline + the clock as qualifying element (classifier) and describe when an action takes place or how frequent it happens.
+Includes: day, night, morning, afternoon, evening, today, tomorrow, yesterday, week, weekend, month, year, seasons, hours, minutes, seconds.
 
+### Adverbs of Time
+
+- Represented with timeline + clock classifier  
+- Describe when or how often an action happens
+
+---
 
 ## Quantifiers
 
-IKON expresses quantifiers (*all*, *some*, *none*) through contrastive icons opposing set of circles containing all, some, or none of the points present. The intended meaning is circled.
+- *All, some, none* expressed through contrastive icons (sets of circles with points; intended meaning is circled).
 
-# ADAVANCED GRAMMAR
+---
 
-### ICONEMES
+## Advanced Grammar
 
-Now that you learnt our words and principles you can build more complex sentence by adding our **iconemes**. An iconeme is a modifier with grammatical function which enrich the icon meaning
-Iconemes are:
-* **Gender markers**: male and female symbols
-* Imperative mode : exclamative point
-* Conditional: no, yes, and question mark
-* Time tenses: see the dedicated section
-* Diathesis: agent action from the subject (square); patient action on the object (circle)
-* Reflexive; reciprocal
-* Reference:
+### Iconemes
 
-**Note:** Also a border is an iconeme as it assigns a lexical category to an icon.
+Iconemes are modifiers with grammatical functions:  
 
-### WORD ORDER
+- Gender markers: male/female symbols  
+- Imperative: exclamation point  
+- Conditional: yes/no/question mark  
+- Time tenses: see timeline section  
+- Diathesis: agent-action (square), patient-action (circle)  
+- Reflexive / reciprocal  
+- Reference  
 
+> [!NOTE]  
+> Borders are also iconemes (assign lexical category).
+
+### Word Order
 The visual nature of IKON makes it possible to use flexible syntactic approaches.
-Sentences could potentially be constructed from right to left or viceversa, top-bottom or bottom-top. Or following a semantic schema, that is a **verb** connected to its arguments. 
+- Flexible: right-to-left, left-to-right, top-to-bottom, bottom-to-top  
+- Can follow semantic schema: verb connected to arguments
+
 It is up to writers to adjust this order according to what they are accustomed to in their native language, to what they deem most important, or to what burdens readers the least. However, it is important to consider that the most relevant word orders are subject-object-verb (SOV) and subject-verb-object (SVO), the former being the most common.
-
-  ## Semantic predication
-
-  ### Mathematical symbols
-  
-  IKON uses symbols like ∈, and = to reflect different levels of relationship and precision in language, based on the context of the verb "to be" and the relationships between concepts.
-* Preposition "of" and verb "belong" (non-equivalence):
-Use the belonging symbol (∈) for the preposition "of" or the verb "belong."
-Example: If "Paris belongs to the set of fascinating things," you would represent it as "Paris ∈ fascinating things."
-* Verb "to be" (equivalence):
-When "to be" expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
-Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as "Paris = capital of France."
-
-> [!TIP]
-> Simplified use:
-For everyday users who do not need to make these distinctions, the equals sign (=) is sufficient to represent the verb *to be*.
-Example: "Paris = fascinating" can be used even if the two concepts aren't strictly interchangeable.
-
-
-# APLICATIONS
-
-## Language learning
-We tested icons as a tool to support sentence construction activities, particularly for learners with communicative or linguistic challenges. By introducing a set of icons representing key grammatical elements (such as subjects, verbs, tense and aspect, object, and complements), students could visually sequence icons to build simple, meaningful sentences. This method not only encourages language reflection but also provides a structure for communication. Learners are guided through the sentence-building process in a visual and engaging way, fostering comprehension, expression, and confidence in using language. 
-
-Icons can be enriched by the modifiers presented above to express other meanings and relations (e.g., semantic roles, mode). Teachers can also display icons within a semantic graphic schema starting from the verb, which serves as the core of the sentence. From the verb, satellite slots branch out, each representing a specific argument. This structure allows students to visually map the syntax. For example, if needed, the grouping of the copula with an adjective (e.g., is happy), can be represented within this schema, helping learners see how different components contribute to meaning. Note that terminology and learning objectives might vary based on the language features.
-
-## Icons fo digital platforms.
-
-Use IKON for a more inclusive and comprehensible visual communication in digital platforms by avoiding too abstract and meaningless icons. 
-
-## Games
-
-A set of IKON icons has been integrated in a roleplay game as a tool to give a narrative input for the players story. The potentiality lies in the concrete and stimulating scenes we represent and the range of menaings in our vocabulary. 
-
-  
-
-
-
-
-
-
-
-
-
-
-
  
- 
- 
+
+### Semantic Predication – Mathematical Symbols
+
+- Preposition “of” / verb “belong”: use ∈  
+- Verb “to be” (equivalence): use =  
+- Simplified: everyday users can use = even if concepts aren’t fully equivalent
+
+> [!TIP]  
+> Example: *Paris = fascinating* is sufficient for most cases.
+
+---
+
+## Applications
+
+### Language Learning
+
+- Supports sentence construction, especially for learners with communicative challenges  
+- Icons represent subjects, verbs, tense, objects, complements  
+- Teachers can display icons in semantic graphic schema starting from verb as core, with arguments branching out
+
+### Icons for Digital Platforms
+
+- Promotes inclusive, comprehensible visual communication  
+- Avoids abstract or meaningless icons
+
+### Games
+
+- Integrated into roleplay games to provide narrative input  
+- Concrete and stimulating scenes cover wide vocabulary range
+
+---
+

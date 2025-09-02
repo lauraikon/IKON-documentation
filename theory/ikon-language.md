@@ -48,7 +48,7 @@ The member the icon refers to is coloured. An indicative arrow indicates the per
 
 Prepositions are mostly expressed with an orange ball in a spatial relation to other elements.
 The set includes static prepositions (*in*) and dynamic ones (*into*).
-> [ !TIP ]
+> [!TIP]
 > Other elements can become prepositions according to the meaning they assume in the sentence. Example: *of* + noun in expressions of quantity is expressed by the icon for *amount/quantity* in a prepositional border.
 > Example: to give* in a prepositional border is the dative *to*.
 
@@ -147,7 +147,7 @@ Example: If "Paris belongs to the set of fascinating things," you would represen
 When "to be" expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
 Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as "Paris = capital of France."
 
-> [ !TIP ]
+> [!TIP]
 > Simplified use:
 For everyday users who do not need to make these distinctions, the equals sign (=) is sufficient to represent the verb *to be*.
 Example: "Paris = fascinating" can be used even if the two concepts aren't strictly interchangeable.

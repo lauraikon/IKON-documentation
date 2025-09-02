@@ -1,4 +1,4 @@
-# IKON Overview
+# IKON Overview 
 
 The ever-expanding IKON Set has been developed over the past 10 years, reaching 1000 icons. This growth is not random: the lexicon of IKON is built starting from a core set of around 500 icons covering basic concepts in most languages to more complex, but still frequent words.  
 IKON is highly rooted in Esperanto vocabulary and structure. New icons are also created for side projects.

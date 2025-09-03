@@ -39,9 +39,8 @@ The application supports the following input languages:
    - Case (semantic roles to mark the relationship between participants: agent, patient or reciprocal)
    - Gender (Male, Female Non-Binary)
 
-![add_iconeme](../select_iconeme.png)
+![add_iconeme](../add_iconeme.png)
 <p>Now save and close the tab and you have your modified icon. You can keep adding new icons, or downloading the sentence in PNG format.</p>
-
 
 6. **Adjust Icon Order**
 You can drag and rearrange icons to reflect the desired sentence structure.
@@ -56,7 +55,7 @@ We added a feature that displays the translation of each icon in all supported l
 
 ### Sentence example 
 
-
+![sentence in IKON "We ate all food"](../sentence.png)
 ---
 
 ## Need Help?

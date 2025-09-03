@@ -152,10 +152,10 @@ Now that you have learned our words and principles, you can build more complex s
 * Conditional: yes/no/question mark  
 * Time tenses: 19 verbal tenses 
 * Case: semantic roles to mark the relationship between participants
-** Agent (square)
-** Patient (circle)  
-** Reflexive
-** Reciprocal  
+**** Agent (square)
+**** Patient (circle)  
+**** Reflexive
+**** Reciprocal  
 * Reference: An asterisk marks an entity as the referent, and numbers (1-9) link following icons that refer back to that entity.
 
 

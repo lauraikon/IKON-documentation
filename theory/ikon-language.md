@@ -95,8 +95,10 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
   <strong> :question: Question:</strong> Why are borders useful?
 </div>
 
-| :bulb: Example: Look at these sentences. Without the borders the difference in meaning would get lost|
-|![your dream](../your_dream.png)|
+|:bulb: Example: Look at these sentences. Without the borders the difference in meaning would get lost
+
+|![Your dream](../your_dream.png)|
+
 |![You dream](../your_dream)|
 
 ### Tenses

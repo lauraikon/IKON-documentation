@@ -22,9 +22,10 @@ The application supports the following input languages:
 
 3. **Enter a Word**  
    Start typing a word. The system will display matching icons based on your input. It is not available a full list of our icons to consult.
+![select a word](../select_word.png)
 
 > [!IMPORTANT]
-> The system is able to retrieve only an exact alphabetical match (for example verb in infinite form). A more semantic processing to retrive synonyms, morphological flexion is under progress.   
+> The system is able to retrieve only an exact alphabetical match (for example verb in infinite form). A more semantic processing to retrive synonyms, morphological flexion is under progress.
 
 4. **Choose an Icon**  
    Select the icon that best matches your intended meaning.

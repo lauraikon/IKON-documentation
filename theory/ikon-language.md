@@ -176,13 +176,13 @@ The visual nature of IKON makes it possible to use flexible syntactic approaches
 IKON uses symbols like ∈ and = to reflect different levels of relationship between concepts based on the context of the verb *to be*.
 
 * Non-equivalence context:
-Use the belonging symbol (∈) for the preposition *of* or the verb *belong*.
+  <p>Use the belonging symbol (∈) for the preposition *of* or the verb *belong*.</p>
 <p>:bulb: Example: If "Paris belongs to the set of fascinating things," you would represent it as *Paris ∈ fascinating things*.
 </p>
 
 * Equivalence context:
-When *to be* expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
-<p>:bulb: Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris = capital of France.</p>*
+<p>When *to be* expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).</p>
+<p>:bulb: Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris = capital of France*.</p>
 
 ---
 

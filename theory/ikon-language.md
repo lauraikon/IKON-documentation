@@ -99,11 +99,11 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
   <strong> :bulb:Example: Look at these sentences. Without the borders the difference in meaning would get lost. </strong>
 </div>
 
-<img=src"../your_dream.png" alt="your dream" style="width:50">
+<img src="../your_dream.png" alt="your dream" style="width:50">
 
-|![Your dream](../your_dream.png)|
+![Your dream](../your_dream.png)
 
-|![You dream](../your_dream.png)|
+![You dream](../you_dream.png)
 
 ### Tenses
 

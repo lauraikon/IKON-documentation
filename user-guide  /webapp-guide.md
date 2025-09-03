@@ -20,7 +20,7 @@ The application supports the following input languages:
    From the main menu, choose the input language you want to use.
 
 2. **Enter a Word**  
-   Start typing a word. The system will display matching icons based on your input.
+   Start typing a word. The system will display matching icons based on your input. It is not available a full list of our icons to consult.
 
 > [!IMPORTANT]
 > The system is able to retrieve only an exact alphabetical match (for example verb in infinite form). A more semantic processing to retrive synonyms, morphological flexion is under progress.   
@@ -38,19 +38,19 @@ The application supports the following input languages:
    - Gender (Male, Female Non-Binary)
 <p>Now save and close the tab and you have your modified icon. You can keep adding new icons, or downloading the sentence in PNG format.</p>
 
+6. **Adjust Icon Order**
+You can drag and rearrange icons to reflect the desired sentence structure.
+
 ## Show Translation
 
-We added a feature that displays the translation of each icon in all supported languages.
+We added a feature that displays the translation of each icon in all supported languages. Each icon is translated with a base form (dictionary entry) and do not change according to the grammatical modification you applied to the icon. 
 
 > [!WARNING]  
-> To change the translation language, you must rebuild the sentence in the chosen language. The translation don't show the grammatical modification.
+> To change the translation language, you must rebuild the sentence in the chosen language.
 
-### Example Translation
-> **Input:** “You were sleeping”  
-> **IKON sequence:** [icon representation here]
 
-### Adjust Icon Order
-You can drag and rearrange icons to reflect the correct sentence structure.
+### Sentence example 
+
 
 ---
 

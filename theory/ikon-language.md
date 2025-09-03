@@ -118,7 +118,9 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
   - Segment: a long or continuous event/action 
   - Infinite timeless line: state as permanent fact; general truth.
 </p> 
+ These are examples of basic tenses.
 
+ <img src="../tenses.png" alt="example of verbal tenses in IKON including punctual past, present, future and continuous past" width="200">
 
 <p>Another vertical bar shows a point of reference, which is the time from which the event is viewed in more complex tenses such as a present perfect.</p>
 

@@ -25,14 +25,14 @@ These are the basic strategies used to translate words into based on linguistic 
 
 | Type of Icon | Description |
 |--------------|------------|
-| PICTOGRAPHIC | A prototypical and conventional type of an item. Example: the most telling representation of a window. |
+| PICTOGRAPHIC | A prototypical and conventional type of an item. :bulb: Example: the most telling representation of a window. |
 | SYMBOLIC | Symbols already used in the iconography of a specific domain (mathematics, road signs, genders, etc.). |
-| HYPERONYMIC (Supertype) | Icons containing three to four elements to show examples of a larger category. Examples: *wood + glass + paper → material*; a set of different species → *animal*. |
+| HYPERONYMIC (Supertype) | Icons containing three to four elements to show :bulb: Examples of a larger category. :bulb: Examples: *wood + glass + paper → material*; a set of different species → *animal*. |
 | HYPONYMIC (Subtype) | Highlights a specific member of the hyperonymic set. |
 | CONTRASTIVE | Meaning emerges from comparing two concepts (often opposites). The intended meaning is marked with green thick line on the right (or top) according to icon orientation. |
-| PROCESSUAL | Represents an event’s phases or stages. Examples: *to take*, *to choose*. |
-| TRANSFORMATIVE | Two or more scenes to show a process leading to a change of state. Examples: *to get tired*: *is rested* + transformative arrow + *tired*. |
-| CORRELATIVE | Two icons combined to form a compound word. Example: *what + thing → what* |
+| PROCESSUAL | Represents an event’s phases or stages. :bulb: Examples: *to take*, *to choose*. |
+| TRANSFORMATIVE | Two or more scenes to show a process leading to a change of state. :bulb: Examples: *to get tired*: *is rested* + transformative arrow + *tired*. |
+| CORRELATIVE | Two icons combined to form a compound word. :bulb: Example: *what + thing → what* |
 
 ---
 
@@ -61,8 +61,8 @@ Personal pronouns are represented with people. Includes traditional pronouns plu
 
 The family relationships include gender-specific as well as gender-neutral members.
 The gender of the members is coded through hairstyle, symbols, and colour (blue and pink).
-The member the icon refers to is coloured. An indicative arrow indicates the perspective of the relationship. Example: from mother to son is mother; from son to mother is son.
-The referenced member is colored and an indicative arrow shows the perspective. Example: from mother to son → *mother*; from son to mother → *son*.
+The member the icon refers to is coloured. An indicative arrow indicates the perspective of the relationship. :bulb: Example: from mother to son is mother; from son to mother is son.
+The referenced member is colored and an indicative arrow shows the perspective. :bulb: Example: from mother to son → *mother*; from son to mother → *son*.
 
 ---
 
@@ -72,8 +72,8 @@ Prepositions are mostly expressed with an orange ball in spatial relation to oth
 
 > [!TIP]  
 > Other elements can act as prepositions depending on context.  
-> Example: *of* + noun in quantity expressions → *amount/quantity* icon in prepositional border.  
-> Example: *to give* in a prepositional border → dative *to*.
+> :bulb: Example: *of* + noun in quantity expressions → *amount/quantity* icon in prepositional border.  
+> :bulb: Example: *to give* in a prepositional border → dative *to*.
 
 ---
 
@@ -96,7 +96,7 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 </div>
 
 <div style="border:1px solid #4caf50; padding:10px; border-radius:6px; background:#f6fff6;">
-  <strong>💡 Example:</strong> “You were sleeping” → [IKON sequence here]
+  <strong>💡 :bulb: Example:</strong> “You were sleeping” → [IKON sequence here]
 </div>
 
 ### Tenses
@@ -152,10 +152,10 @@ Now that you have learned our words and principles, you can build more complex s
 * Conditional: yes/no/question mark  
 * Time tenses: 19 verbal tenses 
 * Case: semantic roles to mark the relationship between participants
-  * Agent (square)
-  * Patient (circle)  
-  * Reflexive
-  * Reciprocal  
+    * Agent (square)
+    * Patient (circle)  
+    * Reflexive
+    * Reciprocal  
 * Reference: An asterisk marks an entity as the referent, and numbers (1-9) link following icons that refer back to that entity.
 
 
@@ -177,11 +177,12 @@ IKON uses symbols like ∈ and = to reflect different levels of relationship bet
 
 * Non-equivalence context:
 Use the belonging symbol (∈) for the preposition *of* or the verb *belong*.
-Example: If "Paris belongs to the set of fascinating things," you would represent it as *Paris ∈ fascinating things*.
+<p>:bulb: Example: If "Paris belongs to the set of fascinating things," you would represent it as *Paris ∈ fascinating things*.
+</p>
 
 * Equivalence context:
 When *to be* expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
-Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris = capital of France.*
+<p>:bulb: Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris = capital of France.</p>*
 
 ---
 

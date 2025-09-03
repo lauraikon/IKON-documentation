@@ -40,7 +40,8 @@ The application supports the following input languages:
    - Gender (Male, Female Non-Binary)
 
 ![add_iconeme](../add_iconeme.png)
-<p>Now save and close the tab and you have your modified icon. You can keep adding new icons, or downloading the sentence in PNG format.</p>
+
+   * Now save and close the tab and you have your modified icon. You can keep adding new icons, or downloading the sentence in PNG format.</p>
 
 6. **Adjust Icon Order**
 You can drag and rearrange icons to reflect the desired sentence structure.
@@ -59,4 +60,4 @@ We added a feature that displays the translation of each icon in all supported l
 ---
 
 ## Need Help?
-If you have feedback, any questions about the grammar rules or want to help, feel free to contact us.
+If you have feedback, questions or you think you can help, feel free to contact us.

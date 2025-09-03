@@ -133,7 +133,7 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 
 ### Negation
 
-IKON uses a single negation form before the word:  
+IKON uses a single negation form before the negated word:  
 
 - *she no-NEG have-VERB interest in something* (completely lacks possession of interest)  
 - *she no-NEG interested-ADJ in something* (focus on state)  

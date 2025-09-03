@@ -110,9 +110,14 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 
 ### Tenses
 
-<p>As any other language, IKON expresses verbal tenses designed to reflect Esperanto set. It uses *timelines*.</p> 
+<p>As any other language, IKON expresses verbal tenses designed to reflect Esperanto set. It uses *timelines*. </p> 
 <p>The timeline is a modifier that can be added beneath each icon to indicate time through our web app. On this line, a central notch marks time 0, that is, the present. Above the line, a purple dot or segment shows the time being indicated: past, present, or future. </p>
-<p>It also shows the verbal aspect: whether the action is punctual, continuous, or repeated.</p> <p>Another vertical bar shows a point of reference, which is the time from which the event is viewed in more complex tenses such as a present perfect.</p>
+<p>It also shows the verbal aspect: whether the action is punctual, continuous, or repeated.
+* Dot: short or instantaneous event/action.
+* Segment: a long or continuous event/action 
+* Infinite timeless line: state as permanent fact; general truth.
+</p> 
+<p>Another vertical bar shows a point of reference, which is the time from which the event is viewed in more complex tenses such as a present perfect.</p>
 
 > [!NOTE]  
 > A full list of tense icons for English is forthcoming. They are designed to match other languages’ tenses.

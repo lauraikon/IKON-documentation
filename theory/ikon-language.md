@@ -152,10 +152,10 @@ Now that you have learned our words and principles, you can build more complex s
 * Conditional: yes/no/question mark  
 * Time tenses: 19 verbal tenses 
 * Case: semantic roles to mark the relationship between participants
-    * Agent (square)
-    * Patient (circle)  
-    * Reflexive
-    * Reciprocal  
+** Agent (square)
+** Patient (circle)  
+** Reflexive
+** Reciprocal  
 * Reference: An asterisk marks an entity as the referent, and numbers (1-9) link following icons that refer back to that entity.
 
 
@@ -177,12 +177,12 @@ IKON uses symbols like ∈ and = to reflect different levels of relationship bet
 
 * Non-equivalence context:
   <p>Use the belonging symbol (∈) for the preposition *of* or the verb *belong*.</p>
-<p>:bulb: Example: If "Paris belongs to the set of fascinating things," you would represent it as *Paris ∈ fascinating things*.
-</p>
+  <p>:bulb: Example: If "Paris belongs to the set of fascinating things," you would represent it as *Paris ∈ fascinating things*.
+  </p>
 
 * Equivalence context:
-<p>When *to be* expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).</p>
-<p>:bulb: Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris = capital of France*.</p>
+  <p>When *to be* expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).</p>
+  <p>:bulb: Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris    = capital of France*.</p>
 
 ---
 

@@ -18,6 +18,7 @@ The application supports the following input languages:
 
 1. **Select a Language**  
    From the main menu, choose the input language you want to use.
+<img src="select_language" alt="select language">
 
 2. **Enter a Word**  
    Start typing a word. The system will display matching icons based on your input. It is not available a full list of our icons to consult.

@@ -122,7 +122,7 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 <br>
  <img src="../tenses.png" alt="example of verbal tenses in IKON including punctual past, present, future and continuous past" width="250">
 
-<p>Another vertical bar shows a point of reference, which is the time from which the event is viewed in more complex tenses such as a present perfect.</p>
+<p> More complex tenses such as present perfect use another vertical bar as a point of reference, which is the time from which the event is viewed.</p>
 
 > [!NOTE]
 > All tenses are in our web app text2Ikon and a full list of tense icons for English is forthcoming. They are designed to match other languages’ tenses.

@@ -92,11 +92,11 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 - Plural → Overlapping three borders  
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:6px; background:#f9f9f9;">
-  <strong>❓ Question:</strong> Why are borders useful?
+  <strong> :question: Question:</strong> Why are borders useful?
 </div>
 
 <div style="border:1px solid #4caf50; padding:10px; border-radius:6px; background:#f6fff6;">
-  <strong>💡 :bulb: Example:</strong> “You were sleeping” → [IKON sequence here]
+  <strong> :bulb: Example:</strong> “You were sleeping” → [IKON sequence here]
 </div>
 
 ### Tenses

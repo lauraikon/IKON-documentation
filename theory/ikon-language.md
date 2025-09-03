@@ -100,9 +100,9 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 </div>
 
 
-<img src="../your_dream.png" alt="your dream: sentence in icons" width="50" height="30">
+<img src="../your_dream.png" alt="your dream: sentence in icons" width="100" height="80">
 
-<imag src="../you_dream.png" alt="you dream: sentence in icons" width="50" height="30">
+<img src="../you_dream.png" alt="you dream: sentence in icons" width="100" height="80">
 
 
 ### Tenses

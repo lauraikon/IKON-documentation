@@ -3,7 +3,8 @@
 > [!NOTE]  
 > This repository contains **sample documentation** created to demonstrate technical writing and structuring skills.  
 It is based on my work as a chief linguist for the IKON visual language project by KomunIKON.  
-This is a simplified and public version – some details are omitted for confidentiality. 
+This is a simplified and public version – some details are omitted for confidentiality.
+<p>A full multi-page version of this documentation as static website is in progress.</p>
 
 The repository contains documentation for the IKON language. 
 It has been created for 2 reasons:
@@ -36,8 +37,8 @@ You can find our methodology, examples of IKON and other analysis in the followi
 - [IKON, language of icons: linguistic, semiotic and graphic aspects](https://www.youtube.com/watch?v=WAaFLqit6fQ), Symbol Group Annual Meeting, September 2024.
 - [Iconologia: la scienza di Emoji e icone](https://scienzaexpress.it/2024/09/iconologia-la-scienza-di-emoji-e-icone/). (2024). Reale, Cesco. *Scienza express*.
 - Meloni, L. et al. (2023). *Semantics of Visual Languages: the IKON language and linguistic resources*. In Proceedings of IConlangs22. RiCognizioni Journal, Turin.
-- Meloni, L. et al. (2022). Beyond emojis: an insight into the IKON language. In Proceedings of the Fifth International Workshop on Emoji Understanding and Applications in Social Media, pages 11–20,
-Seattle, Washington, USA. Association for Computational Linguistics.
+- Meloni, L. et al. (2022). Beyond emojis: an insight into the IKON language. In Proceedings of the Fifth International Workshop on Emoji Understanding and Applications
+- Reale, C. et al. (2021). From hieroglyphs to emoji, to IKON: The search of the (perfect?) visual language. In A. Marcus & E. Rosenzweig (Eds.), Design, user experience, and usability: UX research and design (pp. 457–476). Spri in Social Media, pages 11–20, Seattle, Washington, USA. Association for Computational Linguistics.
 
 
 For questions, collaborations, or feedback:  

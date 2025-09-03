@@ -27,7 +27,7 @@ These are the basic strategies used to translate words into based on linguistic 
 |--------------|------------|
 | PICTOGRAPHIC | A prototypical and conventional type of an item. :bulb: Example: the most telling representation of a window. |
 | SYMBOLIC | Symbols already used in the iconography of a specific domain (mathematics, road signs, genders, etc.). |
-| HYPERONYMIC (Supertype) | Icons containing three to four elements to show a larger category. :bulb: Examples of a larger category. :bulb: Examples: *wood + glass + paper → material*; a set of different species → *animal*. |
+| HYPERONYMIC (Supertype) | Icons containing three to four elements to show ecamples of a larger category. :bulb: Examples: *wood + glass + paper → material*; a set of different species → *animal*. |
 | HYPONYMIC (Subtype) | Highlights a specific member of the hyperonymic set. |
 | CONTRASTIVE | Meaning emerges from comparing two concepts (often opposites). The intended meaning is marked with green thick line on the right (or top) according to icon orientation. |
 | PROCESSUAL | Represents an event’s phases or stages. :bulb: Examples: *to take*, *to choose*. |

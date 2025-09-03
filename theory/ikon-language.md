@@ -157,8 +157,7 @@ Now that you have learned our words and principles, you can build more complex s
 **** Reflexive
 **** Reciprocal  
 * Reference: An asterisk marks an entity as the referent, and numbers (1-9) link following icons that refer back to that entity.
-
-
+<br></br>
 > [!NOTE]  
 > Borders are also iconemes (assign lexical category).
 

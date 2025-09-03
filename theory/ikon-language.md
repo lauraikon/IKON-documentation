@@ -61,8 +61,12 @@ Personal pronouns are represented with people. Includes traditional pronouns plu
 
 The family relationships include gender-specific as well as gender-neutral members.
 The gender of the members is coded through hairstyle, symbols, and colour (blue and pink).
-The member the icon refers to is coloured. An indicative arrow indicates the perspective of the relationship. :bulb: Example: from mother to son is mother; from son to mother is son.
-The referenced member is colored and an indicative arrow shows the perspective. :bulb: Example: from mother to son → *mother*; from son to mother → *son*.
+The member the icon refers to is coloured. An indicative arrow indicates the perspective of the relationship. 
+
+:bulb: Example: from mother to son is mother; from son to mother is son.
+The referenced member is colored and an indicative arrow shows the perspective. 
+
+:bulb: Example: from mother to son → *mother*; from son to mother → *son*.
 
 ---
 

@@ -96,8 +96,10 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 </div>
 
 <div style="border:1px solid #4caf50; padding:10px; border-radius:6px; background:#f6fff6;">
-  <strong> :bulb: Example:</strong> “You were sleeping” → [IKON sequence here]
+  <strong> :bulb: Example:</strong> “Look at these sentences. Without the borders the difference in meaning would get lost”
 </div>
+|![your dream](../your_dream.png)|
+|![You dream](../your_dream)|
 
 ### Tenses
 

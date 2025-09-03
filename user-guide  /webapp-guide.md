@@ -44,7 +44,8 @@ The application supports the following input languages:
    * Now save and close the tab and you have your modified icon. You can keep adding new icons, or downloading the sentence in PNG format.</p>
 
 6. **Adjust Icon Order**
-You can drag and rearrange icons to reflect the desired sentence structure.
+
+   You can drag and rearrange icons to reflect the desired sentence structure.
 
 ## Show Translation
 

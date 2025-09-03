@@ -22,10 +22,13 @@ The application supports the following input languages:
 2. **Enter a Word**  
    Start typing a word. The system will display matching icons based on your input.
 
-3. **Choose an Icon**  
+> [!IMPORTANT]
+> The system is able to retrieve only an exact alphabetical match (for example verb in infinite form). A more semantic processing to retrive synonyms, morphological flexion is under progress.   
+
+4. **Choose an Icon**  
    Select the icon that best matches your intended meaning.
 
-4. **Add Grammatical Modifiers**
+5. **Add Grammatical Modifiers**
 
    You can enrich the icon with various grammatical features:
    - Part of speech (noun, verb, adjective, conjunction, adverb, neutral.)
@@ -33,14 +36,14 @@ The application supports the following input languages:
    - Tense (19 different verbal tenses)
    - Case (semantic roles to mark the relationship between participants: agent, patient or reciprocal)
    - Gender (Male, Female Non-Binary)
-<p>Now close the tab and you have your modified icon. You can keep adding new icons, or downloading the sentence in PNG format.</p>
+<p>Now save and close the tab and you have your modified icon. You can keep adding new icons, or downloading the sentence in PNG format.</p>
 
 ## Show Translation
 
 We added a feature that displays the translation of each icon in all supported languages.
 
 > [!WARNING]  
-> To change the translation language, you must rebuild the sentence in the chosen language.
+> To change the translation language, you must rebuild the sentence in the chosen language. The translation don't show the grammatical modification.
 
 ### Example Translation
 > **Input:** “You were sleeping”  

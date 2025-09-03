@@ -99,6 +99,7 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
   <strong> :bulb:Example: Look at these sentences. Without the borders the difference in meaning would get lost. </strong>
 </div>
 <br>
+
 *Your dream*
 <br>
 <img src="../your_dream.png" alt="your dream: sentence in icons" width="200" height="200">

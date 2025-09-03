@@ -19,19 +19,19 @@ IKON is highly rooted in Esperanto vocabulary and structure. New icons are also 
 
 ## Type of Icons
 
-### Semantic – Graphic Strategies
+### Semantic-graphic strategies
 
-These are the basic strategies used to translate words into icons, based on linguistic analysis and graphic optimization.
+These are the basic strategies used to translate words into based on linguistic analysis and graphic optimization.
 
 | Type of Icon | Description |
 |--------------|------------|
 | PICTOGRAPHIC | A prototypical and conventional type of an item. Example: the most telling representation of a window. |
-| SYMBOLIC | Use of symbols already used in the iconography of a specific domain (mathematics, road signs, genders, etc.). |
+| SYMBOLIC | Symbols already used in the iconography of a specific domain (mathematics, road signs, genders, etc.). |
 | HYPERONYMIC (Supertype) | Icons containing three to four elements to show examples of a larger category. Examples: *wood + glass + paper → material*; a set of different species → *animal*. |
 | HYPONYMIC (Subtype) | Highlights a specific member of the hyperonymic set. |
 | CONTRASTIVE | Meaning emerges from comparing two concepts (often opposites). The intended meaning is marked with green thick line on the right (or top) according to icon orientation. |
 | PROCESSUAL | Represents an event’s phases or stages. Examples: *to take*, *to choose*. |
-| TRANSFORMATIVE | Shows a process leading to a change of state. Examples: *to get tired*: *is rested* + transformative arrow + *tired*. |
+| TRANSFORMATIVE | Two or more scenes to show a process leading to a change of state. Examples: *to get tired*: *is rested* + transformative arrow + *tired*. |
 | CORRELATIVE | Two icons combined to form a compound word. Example: *what + thing → what* |
 
 ---
@@ -52,13 +52,17 @@ These are the basic strategies used to translate words into icons, based on ling
 ### People and Jobs
 
 - Genderless and non-cultural human figures are gray (full, half body, or only hands).  
-- Profession is indicated by adding a qualifying element to the gray person.  
-- Personal pronouns are represented with people. Includes traditional pronouns plus inclusive “we” (me + you + possibly someone else) and exclusive “we” (me + someone else but not you). Pronouns use gray borders.
+- Profession is indicated with a correlative icon by adding a qualifying element to the gray person.
+  
+### Pronouns
+Personal pronouns are represented with people. Includes traditional pronouns plus inclusive “we” (me + you + possibly someone else) and exclusive “we” (me + someone else but not you). Pronouns use gray borders.
 
 ### Family
 
-- Family members are gender-specific or neutral, coded via hairstyle, symbols, and color (blue/pink).  
-- The referenced member is colored; an indicative arrow shows the perspective. Example: from mother to son → *mother*; from son to mother → *son*.
+The family relationships include gender-specific as well as gender-neutral members.
+The gender of the members is coded through hairstyle, symbols, and colour (blue and pink).
+The member the icon refers to is coloured. An indicative arrow indicates the perspective of the relationship. Example: from mother to son is mother; from son to mother is son.
+The referenced member is colored and an indicative arrow shows the perspective. Example: from mother to son → *mother*; from son to mother → *son*.
 
 ---
 
@@ -83,21 +87,23 @@ IKON assigns colors and shapes to parts of speech. Each icon is contained in a c
 - Red → Verbs  
 - Blue → Adjectives  
 - Orange → Adverbs  
-- Green → Conjunctions & prepositions  
+- Green → Conjunctions and prepositions  
 - Gray → Pronouns / indefinite elements  
 - Plural → Overlapping three borders  
 
-> [!TIP]  
-> **Why are borders useful?**  
-> Imagine sentences without borders — the meaning would be lost.
+<div style="border:1px solid #ccc; padding:10px; border-radius:6px; background:#f9f9f9;">
+  <strong>❓ Question:</strong> Why are borders useful?
+</div>
+
+<div style="border:1px solid #4caf50; padding:10px; border-radius:6px; background:#f6fff6;">
+  <strong>💡 Example:</strong> “You were sleeping” → [IKON sequence here]
+</div>
 
 ### Tenses
 
-- IKON expresses verbal tenses using *timelines*.  
-- A timeline appears beneath each icon: a central notch marks time 0 (present).  
-- A purple dot or segment shows past, present, or future.  
-- Another vertical bar can indicate the reference time for complex tenses (e.g., present perfect).  
-- Timeline also shows verbal aspect: punctual, continuous, or repeated.
+<p>As any other language, IKON expresses verbal tenses designed to reflect Esperanto set. It uses *timelines*.</p> 
+<p>The timeline is a modifier that can be added beneath each icon to indicate time through our web app. On this line, a central notch marks time 0, that is, the present. Above the line, a purple dot or segment shows the time being indicated: past, present, or future. </p>
+<p>It also shows the verbal aspect: whether the action is punctual, continuous, or repeated.</p> <p>Another vertical bar shows a point of reference, which is the time from which the event is viewed in more complex tenses such as a present perfect.</p>
 
 > [!NOTE]  
 > A full list of tense icons for English is forthcoming. They are designed to match other languages’ tenses.
@@ -117,12 +123,14 @@ IKON uses a single negation form before the word:
 
 ### Time-related Words
 
+IKON has the most relevant words to express time using various semantic-graphical strategies:
 Includes: day, night, morning, afternoon, evening, today, tomorrow, yesterday, week, weekend, month, year, seasons, hours, minutes, seconds.
 
 ### Adverbs of Time
 
-- Represented with timeline + clock classifier  
-- Describe when or how often an action happens
+The adverbs of time are designed with a timeline + the clock as a qualifying element (classifier).
+They describe when an action takes place or how frequently it happens.
+
 
 ---
 
@@ -136,35 +144,43 @@ Includes: day, night, morning, afternoon, evening, today, tomorrow, yesterday, w
 
 ### Iconemes
 
-Iconemes are modifiers with grammatical functions:  
-
+Now that you have learned our words and principles, you can build more complex sentences by adding our iconemes.
+<p>An iconeme is a modifier with grammatical function which enriches the icon meaning.</p>
+<p>Iconemes are:</p>
 - Gender markers: male/female symbols  
 - Imperative: exclamation point  
 - Conditional: yes/no/question mark  
-- Time tenses: see timeline section  
-- Diathesis: agent-action (square), patient-action (circle)  
-- Reflexive / reciprocal  
-- Reference  
+- Time tenses: 19 verbal tenses 
+- Case: semantic roles to mark the relationship between participants
+  - Agent (square)
+  - Patient (circle)  
+  - Reflexive
+  - Reciprocal  
+- Reference: An asterisk marks an entity as the referent, and numbers (1-9) link following icons that refer back to that entity.
 
 > [!NOTE]  
 > Borders are also iconemes (assign lexical category).
 
 ### Word Order
-The visual nature of IKON makes it possible to use flexible syntactic approaches.
-- Flexible: right-to-left, left-to-right, top-to-bottom, bottom-to-top  
-- Can follow semantic schema: verb connected to arguments
+The visual nature of IKON makes it possible to use flexible syntactic approaches that reflect either the user’s native language or cognitive best practices, such as optimizing focus or reducing memory load.
+- Flexible syntax: right-to-left, left-to-right, top-to-bottom, bottom-to-top
+- Follow a 2d semantic schema: connect verb to its arguments
 
-It is up to writers to adjust this order according to what they are accustomed to in their native language, to what they deem most important, or to what burdens readers the least. However, it is important to consider that the most relevant word orders are subject-object-verb (SOV) and subject-verb-object (SVO), the former being the most common.
+>  [!TIP]
+>   Consider that the most relevant word orders are subject-object-verb (SOV) and subject-verb-object (SVO), the former being the most common.
  
 
 ### Semantic Predication – Mathematical Symbols
 
-- Preposition “of” / verb “belong”: use ∈  
-- Verb “to be” (equivalence): use =  
-- Simplified: everyday users can use = even if concepts aren’t fully equivalent
+IKON uses symbols like ∈ and = to reflect different levels of relationship between concepts based on the context of the verb *to be*.
 
-> [!TIP]  
-> Example: *Paris = fascinating* is sufficient for most cases.
+- Non-equivalence context:
+Use the belonging symbol (∈) for the preposition *of* or the verb *belong*.
+Example: If "Paris belongs to the set of fascinating things," you would represent it as *Paris ∈ fascinating things*.
+
+Equivalence context:
+When *to be* expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
+Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris = capital of France.*
 
 ---
 
@@ -172,9 +188,9 @@ It is up to writers to adjust this order according to what they are accustomed t
 
 ### Language Learning
 
-- Supports sentence construction, especially for learners with communicative challenges  
+- Support sentence construction, and syntax analysis especially for learners with communicative challenges
+- Support vocabulary learning from simple nouns to verbal tenses through visualization
 - Icons represent subjects, verbs, tense, objects, complements  
-- Teachers can display icons in semantic graphic schema starting from verb as core, with arguments branching out
 
 ### Icons for Digital Platforms
 
@@ -183,8 +199,7 @@ It is up to writers to adjust this order according to what they are accustomed t
 
 ### Games
 
-- Integrated into roleplay games to provide narrative input  
-- Concrete and stimulating scenes cover wide vocabulary range
+- Integrate IKON into roleplay games to provide narrative input  thanks to its wide vocabulary range with concrete and stimulating scenes 
 
 ---
 

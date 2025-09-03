@@ -147,16 +147,16 @@ They describe when an action takes place or how frequently it happens.
 Now that you have learned our words and principles, you can build more complex sentences by adding our iconemes.
 <p>An iconeme is a modifier with grammatical function which enriches the icon meaning.</p>
 <p>Iconemes are:</p>
-- Gender markers: male/female symbols  
-- Imperative: exclamation point  
-- Conditional: yes/no/question mark  
-- Time tenses: 19 verbal tenses 
-- Case: semantic roles to mark the relationship between participants
-  - Agent (square)
-  - Patient (circle)  
-  - Reflexive
-  - Reciprocal  
-- Reference: An asterisk marks an entity as the referent, and numbers (1-9) link following icons that refer back to that entity.
+* Gender markers: male/female symbols  
+* Imperative: exclamation point  
+* Conditional: yes/no/question mark  
+* Time tenses: 19 verbal tenses 
+* Case: semantic roles to mark the relationship between participants
+  * Agent (square)
+  * Patient (circle)  
+  * Reflexive
+  * Reciprocal  
+* Reference: An asterisk marks an entity as the referent, and numbers (1-9) link following icons that refer back to that entity.
 
 
 > [!NOTE]  
@@ -175,11 +175,11 @@ The visual nature of IKON makes it possible to use flexible syntactic approaches
 
 IKON uses symbols like ∈ and = to reflect different levels of relationship between concepts based on the context of the verb *to be*.
 
-- Non-equivalence context:
+* Non-equivalence context:
 Use the belonging symbol (∈) for the preposition *of* or the verb *belong*.
 Example: If "Paris belongs to the set of fascinating things," you would represent it as *Paris ∈ fascinating things*.
 
-Equivalence context:
+* Equivalence context:
 When *to be* expresses equivalence (i.e., both concepts are interchangeable), use the equals sign (=).
 Example: In the sentence "Paris is the capital of France," the concepts "Paris" and "capital of France" are interchangeable, so it's represented as *Paris = capital of France.*
 

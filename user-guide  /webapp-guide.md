@@ -59,4 +59,4 @@ We added a feature that displays the translation of each icon in all supported l
 ---
 
 ## Need Help?
-If you have any questions about the grammar rules or how to use modifiers, feel free to contact us.
+If you have feedback, any questions about the grammar rules or want to help, feel free to contact us.

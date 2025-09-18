@@ -82,6 +82,11 @@ These are the basic strategies used to translate words into based on linguistic 
 
 - Genderless and non-cultural human figures are gray (full, half body, or only hands).  
 - Profession is indicated with a correlative icon by adding a qualifying element to the gray person.
+- Whenever an icon may refer to an undetermined subject, actor or patient, humans are used as generic “placeholders”
+  
+> ![NOTE]
+> If not necessary we prefer to not add humans or hands in the scene to make the icon more flexible and applicable to far more contexts without looking odd. 
+
   
 ### Pronouns
 Personal pronouns are represented with people. Includes traditional pronouns plus inclusive “we” (me + you + possibly someone else) and exclusive “we” (me + someone else but not you). Pronouns use gray borders.

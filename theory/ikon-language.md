@@ -16,6 +16,34 @@ IKON is highly rooted in Esperanto vocabulary and structure. New icons are also 
 - [Applications](#applications)  
 
 ---
+## Borders
+
+IKON assigns colors and shapes to parts of speech. Each icon is contained in a colored border:  
+
+- Yellow → Nouns  
+- Red → Verbs  
+- Blue → Adjectives  
+- Orange → Adverbs  
+- Green → Conjunctions and prepositions  
+- Gray → Pronouns / indefinite elements  
+- Plural → Overlapping three borders  
+
+<div style="border:1px solid #ccc; padding:10px; border-radius:6px; background:#f9f9f9;">
+  <strong> :question: Question:</strong> Why are borders useful?
+</div>
+
+<div style="border:1px solid #ccc; padding:10px; border-radius:6px; background:#f9f9f9;">
+  <strong> :bulb:Example: Look at these sentences. Without the borders the difference in meaning would get lost. </strong>
+</div>
+<br>
+
+*Your dream*
+<br>
+<img src="../your_dream.png" alt="your dream: sentence in icons" width="200" height="200">
+
+*You dream*
+<br>
+<img src="../you_dream.png" alt="you dream: sentence in icons" width="200" height="200">
 
 ## Type of Icons
 
@@ -82,35 +110,6 @@ Prepositions are mostly expressed with an orange ball in spatial relation to oth
 ---
 
 ## Grammar
-
-### Borders
-
-IKON assigns colors and shapes to parts of speech. Each icon is contained in a colored border:  
-
-- Yellow → Nouns  
-- Red → Verbs  
-- Blue → Adjectives  
-- Orange → Adverbs  
-- Green → Conjunctions and prepositions  
-- Gray → Pronouns / indefinite elements  
-- Plural → Overlapping three borders  
-
-<div style="border:1px solid #ccc; padding:10px; border-radius:6px; background:#f9f9f9;">
-  <strong> :question: Question:</strong> Why are borders useful?
-</div>
-
-<div style="border:1px solid #ccc; padding:10px; border-radius:6px; background:#f9f9f9;">
-  <strong> :bulb:Example: Look at these sentences. Without the borders the difference in meaning would get lost. </strong>
-</div>
-<br>
-
-*Your dream*
-<br>
-<img src="../your_dream.png" alt="your dream: sentence in icons" width="200" height="200">
-
-*You dream*
-<br>
-<img src="../you_dream.png" alt="you dream: sentence in icons" width="200" height="200">
 
 ### Tenses
 

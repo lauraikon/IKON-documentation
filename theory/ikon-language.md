@@ -7,6 +7,7 @@ IKON is highly rooted in Esperanto vocabulary and structure. New icons are also 
 
 ## Table of Contents
 
+- [Borders](#Borders)
 - [Type of Icons](#type-of-icons)  
 - [Arrows, Lines, Circles](#arrows-lines-circles)  
 - [People, Family, and Pronouns](#people-family-and-pronouns)  

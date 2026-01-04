@@ -21,7 +21,10 @@ The application supports the following input languages:
    ![select language](../select_language.png)
 
 3. **Enter a Word**  
-   Start typing a word. The system will display matching icons based on your input. It is not available a full list of our icons to consult.
+   Start typing a word in the input field. The system will display matching icons based on your input.
+   
+   A complete list of available icons is not currently accessible.
+
 ![select a word](../select_word.png)
 
 > [!IMPORTANT]
